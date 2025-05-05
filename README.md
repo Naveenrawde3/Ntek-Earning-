@@ -56,7 +56,9 @@ fleek login
 
 * Login with your Wallet and Email (both)
 
-* After login, open the above link again to sign 
+* After login, open the above link again to sign
+
+* Back to Terminal & u could see a success messag
 
 
 # **Create a project**
