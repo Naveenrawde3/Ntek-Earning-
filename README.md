@@ -3,7 +3,7 @@ Fleek CLI Guide
 
 <div align="center">
 
-# 👨🏻‍💻 **Fleek CLI Guide** 👨🏻‍💻
+#  😱 **Fleek CLI Guide** 😱
 
 </div>
 
@@ -43,9 +43,6 @@ sudo npm install -g @fleek-platform/cli
 fleek
 ```
 
-![image](https://github.com/user-attachments/assets/15e245da-e927-4b12-9f18-05e6e1ab9a45)
-
-
 
 # **Login**
 
@@ -62,14 +59,6 @@ fleek login
 * After login, open the above link again to sign 
 
 
-![image](https://github.com/user-attachments/assets/afcc79a4-8a59-4636-82dd-7f1f1ff53e5b)
-
-* Back to Terminal & u could see a success message:
-
-![image](https://github.com/user-attachments/assets/3fe8e711-bef5-477f-8e34-fe4e00f4771e)
-
-
-
 # **Create a project**
 
 
@@ -81,10 +70,6 @@ fleek projects create
 
 
 * 🔺🔺 If u see somethink like that (check ss given below), than dont do anythink, just do next process of `Set up a simple page`
-
-![Screenshot 2025-04-28 165908](https://github.com/user-attachments/assets/c6162abc-e6ce-473e-8793-8783f09acf78)
-
-
 
 
 # **Set up a simple page**
@@ -126,12 +111,6 @@ fleek sites init
   * This will promt `✔ Would you like to include the optional "build" command?` just enter `no`
 
   * This will promt `✔ Select a format for saving the site's configuration:`     just select  `JSON (fleek.config.json)` & Enter
-
-  * Check the below given SCREENSHOT for more clarification
-
-  ![image](https://github.com/user-attachments/assets/605b04dd-c428-45e9-8036-adb995e1d778)
-
-  
 
 # **Deploy the Fleek site**
 
