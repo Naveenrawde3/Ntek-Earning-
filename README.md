@@ -51,27 +51,12 @@ fleek login
 ```
 
 
-
-* Run the above command to get the login page link:
-
-* Login with your Wallet and Email (both)
-
-* After login, open the above link again to sign
-
-* Back to Terminal & u could see a success messag
-
-
 # **Create a project**
 
 
 ```
 fleek projects create
 ```
-
-* This will promt u to enter a project name: Enter anything u like:
-
-
-* 🔺🔺 If u see somethink like that (check ss given below), than dont do anythink, just do next process of `Set up a simple page`
 
 
 # **Set up a simple page**
@@ -104,15 +89,6 @@ echo "Hello world" > index.html
 fleek sites init
 ```
 
-  * This will promt u to do many thinks, just follow the CLI instructions
-
-  * You’ll have to enter a name for the new site.
-
-  * This will Promt `✔ Please specify the directory containing the site files to be uploaded` just enter `.`     (a dot)
-
-  * This will promt `✔ Would you like to include the optional "build" command?` just enter `no`
-
-  * This will promt `✔ Select a format for saving the site's configuration:`     just select  `JSON (fleek.config.json)` & Enter
 
 # **Deploy the Fleek site**
 
@@ -120,7 +96,7 @@ fleek sites init
 fleek sites deploy
 ```
 
-Done!⚕️✅
+Done! ✅
 
 👉 Join TG for more Updates: https://t.me/ntekearning2
 
